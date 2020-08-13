@@ -2,7 +2,7 @@
     <img src="Documentation/Resources/Made-In-India-Logos-Animated.gif" alt=“Made In India Logos“ width=“450” height=“349”>
 </p>
 
-These logos were a self-initiated project by the Mumbai-based typeface design studio [Mota Italic](https://www.motaitalic.com) as a small gift to India. They have been released as completely open sourced logos and can be used by anyone to show off that their products were **Made in India**!
+These logos were a self-initiated project by the Mumbai-based typeface design studio [Mota Italic](https://www.motaitalic.com) as a small gift to India. The logos are completely open sourced designs that can be used by anyone wanting to proudly show off their products as **Made in India**!
 
 ### Table of Contents
 - [The Logos](#the-logos)
@@ -48,7 +48,7 @@ Not every usage case will precisely fall into either the Handcrafted or Modern c
 # Selecting the Perfect Version
 There are *many* unique variations for these logos depending on how you count them *(there are either 18, 36, or 492)*\*. Don’t be overwhelmed by all the possibilities. It’s simple and quick to select the exact logo you’ll need for any situation.
 
-The options for these logos grow and branch out like a tree. It all starts with one main idea that splits into two directions then subdivides even more. Each logo fits a particular use case & technical requirement, and in a few steps you can find perfect one.
+The options for these logos grow and branch out like a tree. It all starts with one main idea that splits into two directions then subdivides even more. Each logo fits a particular use case & technical requirement, and in a few steps you can find the perfect one.
 
 ### → Step 1: Handcrafted or Modern?
 ![Selecting a logo - Step 1](Documentation/Resources/Made-In-India-Logos-Selection-1.png)
