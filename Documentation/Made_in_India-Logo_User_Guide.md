@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Documentation/Resources/Made-In-India-Logos-Animated.gif" alt=“Made In India Logos“ width=“450” height=“349”>
+    <img src="Resources/Made-In-India-Logos-Animated.gif" alt=“Made In India Logos“ width=“450” height=“349”>
 </p>
 
 These logos were a self-initiated project by the Mumbai-based typeface design studio [Mota Italic](https://www.motaitalic.com) as a small gift to India. The logos are completely open sourced designs that can be used by anyone wanting to proudly show off their products as **Made in India**!
