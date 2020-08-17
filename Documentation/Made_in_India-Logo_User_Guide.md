@@ -18,19 +18,19 @@ These logos were a self-initiated project by the Mumbai-based typeface design st
 - [Copyright, License, & Thanks](#copyright-license--thanks)
 
 # The Logos
-![Two Stacked Logos](Documentation/Resources/Made-In-India-Logos-Stacked.png)
+![Two Stacked Logos](Resources/Made-In-India-Logos-Stacked.png)
 
 Each can be displayed “**Stacked**” vertically *(above)* or “**Linear**” horizontally *(below)*.
 
-![Two Linear Logos](Documentation/Resources/Made-In-India-Logos-Linear.png)
+![Two Linear Logos](Resources/Made-In-India-Logos-Linear.png)
 
 Not only that, but all come in both black and color versions!
 
-![Color Logos](Documentation/Resources/Made-In-India-Logos-Colors-All.png)
+![Color Logos](Resources/Made-In-India-Logos-Colors-All.png)
 
 Finally, there are size-specific versions to enable the highest quality rendering wherever the logo will be used.
 
-![Logo Sizes](Documentation/Resources/Made-In-India-Logos-sizes.png)
+![Logo Sizes](Resources/Made-In-India-Logos-sizes.png)
 
 This is more than just a simple logo: it’s a flexible & technically advanced system to help instill pride in the goods & objects **Made in India**.
 
@@ -51,22 +51,22 @@ There are *many* unique variations for these logos depending on how you count th
 The options for these logos grow and branch out like a tree. It all starts with one main idea that splits into two directions then subdivides even more. Each logo fits a particular use case & technical requirement, and in a few steps you can find the perfect one.
 
 ### → Step 1: Handcrafted or Modern?
-![Selecting a logo - Step 1](Documentation/Resources/Made-In-India-Logos-Selection-1.png)
+![Selecting a logo - Step 1](Resources/Made-In-India-Logos-Selection-1.png)
 
 ### → Step 2: Stacked or Linear?
-![Selecting a logo - Step 2](Documentation/Resources/Made-In-India-Logos-Selection-2.png)
+![Selecting a logo - Step 2](Resources/Made-In-India-Logos-Selection-2.png)
 
 ### → Step 3: Black or Color?
-![Selecting a logo - Step 3](Documentation/Resources/Made-In-India-Logos-Selection-3.png)
+![Selecting a logo - Step 3](Resources/Made-In-India-Logos-Selection-3.png)
 
 ### → Step 4: Which Size?
-![Selecting a logo - Step 4](Documentation/Resources/Made-In-India-Logos-Selection-4.png)
+![Selecting a logo - Step 4](Resources/Made-In-India-Logos-Selection-4.png)
 
 By asking these questions, it’s simple to find just the right logo for your needs. Keep in mind, that when you use the logo in different places, you will need to re-check that you are using the best possible version for that use. Please don’t merely pick one version then use that everywhere, forever.
 
 This diagram shows all the possibilities for the logos:
 
-![Selecting a logo - Diagram](Documentation/Resources/Made-In-India-Logos-Variation-Tree.png)
+![Selecting a logo - Diagram](Resources/Made-In-India-Logos-Variation-Tree.png)
 
 You may notice that the “Stacked” path has two options. These only concern how to type the logo with the fonts. This will be covered more in the [fonts](#about-the-stacked-versions) section below.
 
@@ -87,15 +87,15 @@ It is important to always select the correct size of the logo for the best balan
 
 This image shows the **Small** and **Large** logo versions scaled to the same size, and overlaid. You will notice in the **Small** version the brush strokes are more pronounced and a bit lighter and the spacing between the letters is wider. The **Large** version is a little more refined and a tighter unit.
 
-![Logo Size Comparisons](Documentation/Resources/Made-In-India-Logos-Size-Comparisons.png)
+![Logo Size Comparisons](Resources/Made-In-India-Logos-Size-Comparisons.png)
 
 This animation highlights some of the differences between the sizes.
 
-![Logo Size Detail Differences](Documentation/Resources/Made-In-India-Logos-size-details-animation.gif)
+![Logo Size Detail Differences](Resources/Made-In-India-Logos-size-details-animation.gif)
 
 When the Large logo is used too small, it becomes more difficult to read, too dark, and the details blur together.
 
-![Logo Sizes Scaled](Documentation/Resources/Made-In-India-Logos-Size-Scaling.jpg)
+![Logo Sizes Scaled](Resources/Made-In-India-Logos-Size-Scaling.jpg)
 
 
 # Using the Logos
@@ -114,11 +114,11 @@ Both the Handcrafted and Modern styles work the same.
 
 Logo |   | How to Type
 ----- | - | ----------
-![Logo-Linear-BW](Documentation/Resources/Made-In-India-Logos-typing-black-1.png) | → | **Made In India**
+![Logo-Linear-BW](Resources/Made-In-India-Logos-typing-black-1.png) | → | **Made In India**
       |   |  
-![Logo-Stacked-Small-BW](Documentation/Resources/Made-In-India-Logos-typing-black-2.png) | → | **MadeInIndia**
+![Logo-Stacked-Small-BW](Resources/Made-In-India-Logos-typing-black-2.png) | → | **MadeInIndia**
       |   | *(Matches the Capital letter's height)*
-![Logo-Stacked-3-BW](Documentation/Resources/Made-In-India-Logos-typing-black-3.png) | → | **Made`⏎`In`⏎`India** (`⏎`=return/enter key)
+![Logo-Stacked-3-BW](Resources/Made-In-India-Logos-typing-black-3.png) | → | **Made`⏎`In`⏎`India** (`⏎`=return/enter key)
       |   | *(Typeset on 3 lines)*
 
 The Color logo versions can be automatically made thanks to OpenType features. Different apps will make these features accessible in different ways, but the colors can be enabled in either of two features: “*Stylistic Set 01*” or “*Stylistic Alternates*”. Activating either of these features should turn the black logos into the color versions. Just type any of the logos as above, and activate either feature! **Note: not all apps or browsers currently support color fonts. You may need to manually color the letters as with any normal font.**
@@ -128,7 +128,7 @@ There are two versions of the stacked logo. This may seem confusing at first, bu
 
 The smallest version (typed: `MadeInIndia`) is scaled down to approximately the capital letters' height. This is most useful if you want the stacked logo in a line of text, or maybe at the end of a paragraph. Be careful that the default text is not already too small, else then the logo will almost disappear. We suggest you use this version at 3x the recommended font sizes found [below](#recommended-sizes).
 
-![Stacked Spacing](Documentation/Resources/Made-In-India-Logos-Stacked-Spacing.jpg)
+![Stacked Spacing](Resources/Made-In-India-Logos-Stacked-Spacing.jpg)
 
 The larger stacked version (typed: `Made⏎In⏎India`) should ideally appear just like the pre-composed one, but this version is actually three lines of text. The advantage of this method is it remains "real text" that is selectable and searchable. Each line/word can be automatically or manually colored. **Warning, with this method, you must check the line spacing / leading!!!** 
 
@@ -152,7 +152,7 @@ Sizes are relative, so you will want to experiment with what size works best for
 
 Ultimately, you will want to use your eyes and your judgement to decide which version looks best for you.
 
-![Logo Size Recommendations](Documentation/Resources/Made-In-India-Logos-sizes-color.png)
+![Logo Size Recommendations](Resources/Made-In-India-Logos-sizes-color.png)
 
 ### Variable Fonts
 These fonts feature and “Optical Size Axis” (opsz); this can automatically, or manually, select the correct logo size for you (this feature is still not widely supported). If manually setting the Optical Size, simply set the number (10-50) to correspond to the pixel size you are using. If it’s smaller than 10, just use 10, if larger than 50, keep it at 50.
